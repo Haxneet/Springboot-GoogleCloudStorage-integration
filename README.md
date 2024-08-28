@@ -37,6 +37,8 @@ The application provides an endpoint for file uploads. Use appropriate HTTP requ
 ## Configuration
 
 Key configurations are managed through application properties. Ensure all necessary GCP-related properties are correctly set.
+1. Copy `application.properties.template` to `application.properties`
+2. Fill in your specific values in `application.properties`
 
 ## License
 
